@@ -10,5 +10,7 @@ My journey in learning programming began during my university days. I started le
 
 - Fun fact: I habitually borrow books and never return them 😁.
 
+- Currently learning Vue 🌱.
+
 
 
